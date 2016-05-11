@@ -24,7 +24,9 @@ Video Settings: Everything disabled / Effect Detail Medium / Multicore Enabled /
 
 > **L4D Without FPS Boost**  
  302 frames 1.360 seconds **221.97 fps ( 4.50 ms/f )** 24.489 fps variability
+
          
+
 > **L4D With FPS Boost**  
 >  302 frames 0.702 seconds **429.97 fps ( 2.32 ms/f )** 44.956 fps variability
 >  
@@ -35,7 +37,9 @@ Video Settings: Everything disabled / Effect Detail Medium / Multicore Enabled /
 >  - 120 fps  = 8.3 ms/f
 
 > [Sample profile](https://drive.google.com/open?id=0B15LgQ1PwzQpTjFtbUZSTkVvSjA) of a full map play-through.
+
          
+
 > **L4D With FPS Boost, Threadpool Reserve 1**  
   302 frames 0.680 seconds **444.30 fps ( 2.25 ms/f)** 44.045 fps variability
  
