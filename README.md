@@ -21,6 +21,7 @@ All results are from a recorded demo file for consistency.
 Test Setup: i5 2500k @ 4ghz / gtx 970 ssc+ / 8gb 1866mhz cl8 / w10 x64   
 Video Settings: Everything disabled / Effect Detail Medium / Multicore Enabled / Memory High / 1080p / fps_max 0    
 
+         
 
 > **L4D Without FPS Boost**  
  302 frames 1.360 seconds **221.97 fps ( 4.50 ms/f )** 24.489 fps variability
