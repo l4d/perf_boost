@@ -13,7 +13,7 @@ Extract the VPK file to the addons folder.
 
 **Benchmarking**
 ------------------
-**Don't expect the huge gains you see below with inferior hardware. You can see gains as small as 5% depending on your hardware and resolution.**  
+**Don't expect the huge gains you see below with inferior hardware.**  
 All results based on a three run sum average.    
 All results are from load with the survivor view vomited and a large horde attacking on DT Map1.      
 Test Setup: i5 2500k @ 4ghz / gtx 970 ssc+ / 8gb 1866mhz cl8 / w10 x64   
