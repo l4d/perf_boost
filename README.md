@@ -1,4 +1,4 @@
-**Installation**
+Installation
 ------------------
 1. Download ProdigySim's recording helper plugin [here](https://steamcommunity.com/linkfilter/?url=https://github.com/ProdigySim/recording_helpers/releases/download/v0.6/recording_helpers-0.6-l4d.zip).      
 Extract both the .dll and .vdf files into your addons folder.         
@@ -11,7 +11,7 @@ Extract the VPK file to the addons folder.
 
 *Note: Changing resolutions resets parts of the cfg and requires a restart.
 
-**Benchmarking**
+Benchmarking
 ------------------
 **Don't expect the huge gains you see below with inferior hardware.**  
 All results based on a three run sum average.    
@@ -46,7 +46,7 @@ Video Settings: Everything disabled / Effect Detail Medium / Multicore Enabled /
  
 > Settings a threadpool reserve will cause the client to hang when exiting the game, so it's left out of the config. If you'd like to use this, you will need to have a dedicated exit key bind that sets the threadpool to 0 then exits the game.
 
-**Optional Settings**
+Optional Settings
 ---------
 If you want fading ragdolls instead of instantly disappearing ragdolls, put `g_ragdoll_fadespeed 1` in your autoexec.
 
@@ -54,6 +54,6 @@ If you want less blurry textures and clearer spray images, put `mat_picmip 1` in
 
 You can refer to the [Hidden CVAR](http://steamcommunity.com/sharedfiles/filedetails/?id=564185677) guide on Steam for more optional settings you can add to your autoexec.
 
-**Crashing**
+Crashing
 ---------
 If you experience random crashing, put `exec fix` in your autoexec.
