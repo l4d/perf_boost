@@ -19,7 +19,7 @@ All results are from load with the survivor view vomited and a large horde attac
 All results are from a recorded demo file for consistency.  
 
 Test Setup: i5 2500k @ 4ghz / gtx 970 ssc+ / 8gb 1866mhz cl8 / w10 x64   
-Video Settings: Everything disabled / Effect Detail Medium / Multicore Enabled / Memory High / 1080p / fps_max 0    
+Video Settings: Everything disabled / Effect Detail Medium / Multicore Enabled / Memory High / 1080p / fps_max 999    
 
          
 
