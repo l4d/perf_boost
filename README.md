@@ -10,7 +10,7 @@ Extract the VPK file to the addons folder.
 3. Remove the -lv (low violence) launch command if being used.
 
 *Note: Changing resolutions resets parts of the cfg and requires a restart or exec fps.    
-*Note: Deleting your config.cfg can improve performance, but you must clear your steam cloud data, or disable steam cloud.
+*Note: Deleting your config.cfg can improve performance, but you must clear your steam cloud data, or disable steam cloud. This will reset all your varaible commands and re-create the file at launch with all default settings.
 
 Benchmarking
 ------------------
