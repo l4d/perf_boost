@@ -1,10 +1,10 @@
 Installation
 ------------------
-1. Download ProdigySim's recording helper plugin [here](https://steamcommunity.com/linkfilter/?url=https://github.com/ProdigySim/recording_helpers/releases/download/v0.6/recording_helpers-0.6-l4d.zip).      
+1. Download ProdigySim's recording helper plugin [here](https://github.com/ProdigySim/recording_helpers/releases/download/v0.6/recording_helpers-0.6-l4d.zip).      
 Extract both the .dll and .vdf files into your addons folder.         
 Skip this step if you already use the plugin.    
 
-2. Download the latest VPK zip release from [here](https://github.com/l4d/perf_boost/releases).   
+2. Download the latest VPK zip release from [here](https://github.com/l4d/perf_boost/archive/master.zip).   
 Extract the VPK file to the addons folder.    
 
 3. Remove the -lv (low violence) launch command if being used.
