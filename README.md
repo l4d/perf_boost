@@ -9,7 +9,7 @@ Extract the VPK file to the addons folder.
 
 3. Remove the -lv (low violence) launch command if being used.
 
-*Note: Changing resolutions resets parts of the cfg and requires a restart or exec fps.    
+*Note: Changing resolutions resets parts of the cfg and requires a restart or exec fps in console.    
 
 Benchmarking
 ------------------
