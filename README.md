@@ -39,7 +39,7 @@ Video Settings: Everything disabled / Effect Detail Medium / Multicore Enabled /
 >  - 60 fps = 16.6 ms/f
 >  - 120 fps  = 8.3 ms/f
 
-> [Sample profile](https://drive.google.com/open?id=0B15LgQ1PwzQpTjFtbUZSTkVvSjA) of a full map play-through.
+> [Sample profile](https://raw.githubusercontent.com/l4d/perf_boost/master/vprof_sample.log) of a full map play-through.
 
          
 
