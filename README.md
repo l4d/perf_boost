@@ -9,7 +9,8 @@ Extract the VPK file to the addons folder.
 
 3. Remove the -lv (low violence) launch command if being used.
 
-*Note: Changing resolutions resets parts of the cfg and requires a restart or exec fps in console.    
+*Note: Changing resolutions resets parts of the cfg and requires a restart or exec fps in console.
+*Added performance vpk with blood enabled by request, performance_b, download [here](https://github.com/l4d/perf_boost/raw/master/performance_b.vpk)
 
 Benchmarking
 ------------------
