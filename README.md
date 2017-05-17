@@ -5,7 +5,7 @@ Extract both the .dll and .vdf files into your addons folder.
 Skip this step if you already use the plugin.    
 
 2. Download the latest VPK zip release from [here](https://github.com/l4d/perf_boost/raw/master/performance.vpk).   
-Extract the VPK file to the addons folder.    
+Move the VPK file to the addons folder.    
 
 3. Remove the -lv (low violence) launch command if being used.
 
