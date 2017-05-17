@@ -7,6 +7,10 @@ Skip this step if you already use the plugin.
 2. Download the latest VPK zip release from [here](https://github.com/l4d/perf_boost/raw/master/performance.vpk).   
 Move the VPK file to the addons folder.    
 
+ **x32** C:\Program Files (x86)\Steam\steamapps\common\left 4 dead\left 4 dead
+
+ **x64** C:\Program Files\Steam\steamapps\common\left 4 dead\left 4 dead
+
 3. Remove the -lv (low violence) launch command if being used.
 
 *Note: Changing resolutions resets parts of the cfg and requires a restart or exec fps in console.
