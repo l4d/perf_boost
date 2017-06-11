@@ -4,16 +4,18 @@ Installation
 Extract both the .dll and .vdf files into your addons folder.         
 Skip this step if you already use the plugin.    
 
-2. Download the latest VPK zip release from [here](https://github.com/l4d/perf_boost/raw/master/performance.vpk).   
+2. Download the latest VPK zip release from [here](https://github.com/l4d/perf_boost/raw/master/performance.vpk), or look at the version guide below.    
 Move the VPK file to the addons folder.
 
 3. Remove the -lv (low violence) launch command if being used.
 
 *Note: Changing resolutions resets parts of the cfg and requires a restart or exec fps in console.
 
-**performance.vpk,** full performance VPK.    
-**performance_b.vpk,** performance VPK with blood particles enabled.    
-**performance_c.vpk,** for people experiencing crashing on modded servers.
+Version Guide
+------------------
+**[performance.vpk](https://github.com/l4d/perf_boost/raw/master/performance.vpk)** / full performance VPK.    
+**[performance_b.vpk](https://github.com/l4d/perf_boost/raw/master/performance_b.vpk)** / performance VPK with blood particles enabled.    
+**[performance_c.vpk](https://github.com/l4d/perf_boost/raw/master/performance_c.vpk)** / for people experiencing crashing on modded servers.
 
 
 
