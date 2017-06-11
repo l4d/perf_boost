@@ -11,7 +11,14 @@ Move the VPK file to the addons folder.
 
 *Note: Changing resolutions resets parts of the cfg and requires a restart or exec fps in console.
 
-*Added performance vpk with blood enabled by request, performance_b, download [here](https://github.com/l4d/perf_boost/raw/master/performance_b.vpk)
+**performance.vpk,** full performance VPK.    
+**performance_b.vpk,** performance VPK with blood particles enabled.    
+**performance_c.vpk,** for people experiencing crashing on modded servers.
+
+
+
+
+
 
 Benchmarking
 ------------------
