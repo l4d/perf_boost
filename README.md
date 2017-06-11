@@ -13,9 +13,9 @@ Move the VPK file to the addons folder.
 
 Version Guide
 ------------------
-**[performance.vpk](https://github.com/l4d/perf_boost/raw/master/performance.vpk)** / full performance VPK.    
-**[performance_b.vpk](https://github.com/l4d/perf_boost/raw/master/performance_b.vpk)** / performance VPK with blood particles enabled.    
-**[performance_c.vpk](https://github.com/l4d/perf_boost/raw/master/performance_c.vpk)** / for people experiencing crashing on modded servers.
+**[performance.vpk](https://github.com/l4d/perf_boost/raw/master/performance.vpk)** ˑ full performance VPK.    
+**[performance_b.vpk](https://github.com/l4d/perf_boost/raw/master/performance_b.vpk)** ˑ performance VPK with blood particles enabled.    
+**[performance_c.vpk](https://github.com/l4d/perf_boost/raw/master/performance_c.vpk)** ˑ for people experiencing crashing on modded servers.
 
 
 
