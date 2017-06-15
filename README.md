@@ -3,7 +3,7 @@ Installation
 1. Download ProdigySim's recording helper plugin [here](https://github.com/ProdigySim/recording_helpers/releases/download/v0.6/recording_helpers-0.6-l4d.zip) and extract both the .dll and .vdf files into your addons folder.         
 *Skip this step if you already use the plugin.*    
 
-2. Download **one** of the latest VPK zip release of your choice (only use 1 VPK):  
+2. Download **one** of the VPK files of your choice (only use 1 VPK):  
    **[performance.vpk](https://github.com/l4d/perf_boost/raw/master/performance.vpk)** ˑ Full performance VPK.    
    **[performance_b.vpk](https://github.com/l4d/perf_boost/raw/master/performance_b.vpk)** ˑ Performance VPK with blood particles enabled.    
    **[performance_c.vpk](https://github.com/l4d/perf_boost/raw/master/performance_c.vpk)** ˑ For people experiencing crashing on modded servers.    
