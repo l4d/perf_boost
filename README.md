@@ -13,7 +13,7 @@ Installation
 3. Move the VPK file to the addons folder.
 
 *Note: Remove the -lv (low violence) launch command if being used.*  
-*Note: Changing resolutions resets parts of the cfg and requires a restart.*  
+*Note: Changing video settings or resolutions resets part of the cfg and requires restart.*  
 *Note: It's recommended that you use the 'High Performance' power plan in Windows.*
 
 
