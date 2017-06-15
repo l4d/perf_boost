@@ -16,16 +16,6 @@ Installation
 *Note: Changing resolutions resets parts of the cfg and requires a restart.*  
 *Note: It's recommended that you use the 'High Performance' power plan in Windows.*
 
-Version Guide
-------------------
-**[performance.vpk](https://github.com/l4d/perf_boost/raw/master/performance.vpk)** ˑ Full performance VPK.    
-**[performance_b.vpk](https://github.com/l4d/perf_boost/raw/master/performance_b.vpk)** ˑ Performance VPK with blood particles enabled.    
-**[performance_c.vpk](https://github.com/l4d/perf_boost/raw/master/performance_c.vpk)** ˑ For people experiencing crashing on modded servers.    
-**[performance_d.vpk](https://github.com/l4d/perf_boost/raw/master/performance_d.vpk)** ˑ Crash fix and blood enabled.
-
-
-
-
 
 Benchmarking
 ------------------
