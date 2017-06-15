@@ -1,15 +1,19 @@
 Installation
 ------------------
-1. Download ProdigySim's recording helper plugin [here](https://github.com/ProdigySim/recording_helpers/releases/download/v0.6/recording_helpers-0.6-l4d.zip).      
-Extract both the .dll and .vdf files into your addons folder.         
-Skip this step if you already use the plugin.    
+1. Download ProdigySim's recording helper plugin [here](https://github.com/ProdigySim/recording_helpers/releases/download/v0.6/recording_helpers-0.6-l4d.zip) and extract both the .dll and .vdf files into your addons folder.         
+*Skip this step if you already use the plugin.*    
 
-2. Download the latest VPK zip release from [here](https://github.com/l4d/perf_boost/raw/master/performance.vpk), or look at the version guide below.    
-Move the VPK file to the addons folder.
+2. Download **one** of the latest VPK zip release of your choice (only use 1 VPK):  
+   **[performance.vpk](https://github.com/l4d/perf_boost/raw/master/performance.vpk)** ˑ Full performance VPK.    
+   **[performance_b.vpk](https://github.com/l4d/perf_boost/raw/master/performance_b.vpk)** ˑ Performance VPK with blood particles enabled.    
+   **[performance_c.vpk](https://github.com/l4d/perf_boost/raw/master/performance_c.vpk)** ˑ For people experiencing crashing on modded servers.    
+   **[performance_d.vpk](https://github.com/l4d/perf_boost/raw/master/performance_d.vpk)** ˑ Modded servers crash fix with blood enabled.
 
-3. Remove the -lv (low violence) launch command if being used.
 
-*Note: Changing resolutions resets parts of the cfg and requires a restart or exec fps in console.
+3. Move the VPK file to the addons folder.
+
+*Note: Remove the -lv (low violence) launch command if being used.*  
+*Note: Changing resolutions resets parts of the cfg and requires a restart or exec fps in console.*
 
 Version Guide
 ------------------
