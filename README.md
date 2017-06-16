@@ -62,7 +62,7 @@ You can refer to the [Hidden CVAR](http://steamcommunity.com/sharedfiles/filedet
 
 Crashing
 ---------
-If you experience random crashing, put `exec fix` in your autoexec.
+If you experience random crashing, put `exec fix` in your autoexec. If that doesn't fix it, try downloading the **[performance_c.vpk](https://github.com/l4d/perf_boost/raw/master/performance_c.vpk)**.
 
 Related L4D Stuff
 ------------------
