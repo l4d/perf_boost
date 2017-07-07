@@ -28,12 +28,8 @@ Benchmarking
 Test Setup: i5 2500k @ 4ghz / gtx 970 ssc+ / 8gb 1866mhz cl8 / w10 x64   
 Video Settings: Everything disabled / Effect Detail Medium / Multicore Enabled / Memory High / 1080p / fps_max 999    
 
-         
-
 > **L4D Without FPS Boost**  
  302 frames 1.360 seconds **221.97 fps ( 4.50 ms/f )** 24.489 fps variability
-
-         
 
 > **L4D With FPS Boost**  
 >  302 frames 0.702 seconds **429.97 fps ( 2.32 ms/f )** 44.956 fps variability
@@ -45,8 +41,6 @@ Video Settings: Everything disabled / Effect Detail Medium / Multicore Enabled /
 >  - 120 fps  = 8.3 ms/f
 
 > [Sample profile](https://raw.githubusercontent.com/l4d/perf_boost/master/vprof_sample.log) of a full map play-through.
-
-         
 
 > **L4D With FPS Boost, Threadpool Reserve 1**  
   302 frames 0.680 seconds **444.30 fps ( 2.25 ms/f)** 44.045 fps variability
