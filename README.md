@@ -10,7 +10,8 @@ Installation
    **[performance_d.vpk](https://github.com/l4d/perf_boost/raw/master/performance_d.vpk)** ˑ Modded servers crash fix with blood enabled.
 
 
-3. Move the VPK file to the addons folder.
+3. Move the VPK file to the addons folder:
+	> C:\Program Files (x86)\Steam\steamapps\common\left 4 dead\left4dead\addons
 
 *Note: Remove the -lv (low violence) launch command if being used.*  
 *Note: Changing video settings or resolutions resets part of the cfg and requires restart.*  
